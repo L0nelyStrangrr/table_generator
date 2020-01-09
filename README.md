@@ -1,1 +1,3 @@
 # table_generator
+
+The program is needed to generate the table. The createTable() function takes 3 arguments - an array with keys (keys), an array with objects (arr), and a newUsers() function that will process each element of the arr array. The createTable () function builds a table with headers from the keys array, and also puts values from each object inside the array (arr) into the cells of this table using the keys of (keys)

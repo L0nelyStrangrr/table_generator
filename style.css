@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: 'Roboto';
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 960px;
+    width: 100%;
+}
+
+table {
+    border-top: 1px solid #E2E2E4;
+    border-bottom: 1px solid #E2E2E4;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {padding: 10px 0 10px 0;
+    border-top: 1px solid #E2E2E4;
+    border-bottom: 1px solid #E2E2E4;
+    /* text-align: center; */
+}
